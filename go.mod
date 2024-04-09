@@ -1,3 +1,3 @@
-module github.com/bradp/hugo-feather-icons
+module github.com/batmanwgd/hugo-feather-icons
 
 go 1.15
