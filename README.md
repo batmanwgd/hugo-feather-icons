@@ -3,7 +3,7 @@ Hugo module to easily use [feather Icons](https://feathericons.com) anywhere in 
 
 ## Installation
 
-First, fork this repository
+First, fork this repository...
 
 Then, [init](https://gohugo.io/hugo-modules/use-modules/#initialize-a-new-module) your project as Hugo Module.:
 
