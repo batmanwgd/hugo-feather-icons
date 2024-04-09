@@ -3,13 +3,15 @@ Hugo module to easily use [feather Icons](https://feathericons.com) anywhere in 
 
 ## Installation
 
-First, [init](https://gohugo.io/hugo-modules/use-modules/#initialize-a-new-module) your project as Hugo Module.:
+First, fork this repository
+
+Then, [init](https://gohugo.io/hugo-modules/use-modules/#initialize-a-new-module) your project as Hugo Module.:
 
 ```
 hugo mod init github.com/<your-user>/<your-project>
 ```
 
-Then edit your config file to import the module:
+Finally, edit your config file to import the module:
 
 ```toml
 # config.toml
